@@ -1,9 +1,7 @@
 slide-items
 ===========
 轮播图组件
-
-在需要添加轮播图处添加<section class="slideItems"></section> DOM 节点, 并引入css默认样式
-<link rel="stylesheet" type="text/css" href="css/slide.css"> 和  <script data-main="js/main.js" src='js/require.js'></script>
+详见wiki https://github.com/YanKwan/slide-items/wiki
 
 该组件用到jquery库和requireJs库, main.js 为主入口文件, 用于调用及自定义初始化. 
 
